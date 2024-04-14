@@ -1,3 +1,5 @@
+package dailyAssignments;
+
 public class PeakElement {
     public PeakElement() {
     }

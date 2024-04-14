@@ -1,3 +1,5 @@
+package dailyAssignments;
+
 public class ReverseArray {
     public ReverseArray() {
     }

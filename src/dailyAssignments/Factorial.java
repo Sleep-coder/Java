@@ -1,3 +1,5 @@
+package dailyAssignments;
+
 import java.util.Scanner;
 
 public class Factorial {
